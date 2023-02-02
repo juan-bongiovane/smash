@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.391a6381.css",
+    "main.js": "/static/js/main.37e2b999.js",
+    "static/media/Changa-VariableFont_wght.ttf": "/static/media/Changa-VariableFont_wght.7c1ac1cdea816bd063a7.ttf",
+    "static/media/Segment7-4Gml.otf": "/static/media/Segment7-4Gml.fd88e4c6bbf8c3867000.otf",
+    "index.html": "/index.html",
+    "main.391a6381.css.map": "/static/css/main.391a6381.css.map",
+    "main.37e2b999.js.map": "/static/js/main.37e2b999.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.391a6381.css",
+    "static/js/main.37e2b999.js"
+  ]
+}
